@@ -373,20 +373,7 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
-/* Default: Desktop */
-.mobile-only {
-  display: none;
-}
 
-/* Mobile: Break before India */
-@media (max-width: 768px) {
-  .desktop-only {
-    display: none;
-  }
-  .mobile-only {
-    display: inline;
-  }
-}
 
 
 
