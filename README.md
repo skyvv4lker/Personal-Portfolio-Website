@@ -43,7 +43,7 @@ A modern, responsive **portfolio website** built using **HTML, CSS, and JavaScri
 
 ## Contact  
 Feel free to connect with me:  
-- **Email**: [ammy2263@gmail.com](mailto:ammymesh2263@gmail.com)  
+- **Email**: [ammymesh2263@gmail.com](mailto:ammymesh2263@gmail.com)  
 - **LinkedIn**: [Ammy Meshram](https://www.linkedin.com/in/ammymeshram/)  
 
 ---
