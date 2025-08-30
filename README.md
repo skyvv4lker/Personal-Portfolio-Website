@@ -1,8 +1,8 @@
 # Portfolio Website  
 
-A modern, responsive **portfolio website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and experience.  
+A modern, responsive **portfolio website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and experience. 
 
-![Portfolio Screenshot](images/desktop-view.png) 
+![Demo](images/demo.mp4) 
 
 ---
 
