@@ -1,1 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
 
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore node modules (if you later add npm packages)
+node_modules/
+
+# Ignore build/dist folders (if you add a bundler later)
+dist/
+build/
+
+# Ignore log files
+*.log
