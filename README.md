@@ -44,10 +44,8 @@ A modern, responsive **portfolio website** built using **HTML, CSS, and JavaScri
 
 ## 📬 Contact  
 💌 Feel free to connect with me:  
-- 📧 **Email**: [ammy2263@gmail.com](mailto:ammy2263@gmail.com)  
+- 📧 **Email**: [ammy2263@gmail.com](mailto:ammymesh2263@gmail.com)  
 - 💼 **LinkedIn**: [Ammy Meshram](https://www.linkedin.com/in/ammymeshram/)  
-- 📷 **Instagram**: [@ammymesh](https://www.instagram.com/ammymesh/)  
-- 📘 **Facebook**: [Ammy Mesh](https://www.facebook.com/ammymesh/)  
 
 ---
 
